@@ -28,3 +28,9 @@ print("Este es el valor de: ",my_luga_nacimiento)
 nombre, apellido, alias, edad = "Jhonatan Isai", "Ojeda Sanchez", "Jhomy", 18
 
 print("Me llamo: ",nombre,apellido,". Mi edad es: ",edad," y mi apodo es: ",alias)
+
+ciudad = "Tambogrande"
+anio = 2024
+bienvenida = f"Hola {ciudad} ¿Como estas? {anio}"
+print(bienvenida)
+print("Hola " in bienvenida)

@@ -11,7 +11,7 @@ for lista_animales in lista_animales:
 
 # Ejemplo 2: Usando range() para un rango de números
 print("RECORRIENDO LOS NUMEROS")
-for i in range(5):
+for i in range(5): 
     print(i)
 
 # Puedes especificar un rango con inicio, fin y paso:

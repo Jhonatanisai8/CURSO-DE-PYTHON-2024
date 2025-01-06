@@ -6,7 +6,7 @@ de teléfono con este formato y muestre por pantalla el número de teléfono
 sin el prefijo y la extensión.
 """
 print("Ejercicio 05")
-numero = "+34-913724710-56"
+numero = "+34-913   724710-56"
 
 def mostrar_numero(numero):
     return numero[4:-3]
